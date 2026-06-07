@@ -11,6 +11,7 @@ This repository contains basic Java programs created while learning Java program
 - Greater Number
 - Voting Eligibility Check
 - Fibonacci Series
+- Prime Number
 
 ## How to Run
 
