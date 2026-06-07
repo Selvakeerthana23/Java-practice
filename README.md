@@ -11,7 +11,7 @@ This repository contains basic Java programs created while learning Java program
 - Greater Number
 - Voting Eligibility Check
 
-  ## How to Run
+## How to Run
 
 1. Compile
    javac FileName.java
