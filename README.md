@@ -13,10 +13,9 @@ This repository contains basic Java programs created while learning Java program
 
 ## How to Run
 
-1. Compile
+1. Compile:
    javac FileName.java
-
-2. Run
+2. Run:
    java FileName
 
 ## Author
