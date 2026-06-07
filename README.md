@@ -1,6 +1,8 @@
-# Java Practice
+# Java Practice Programs
 
-This repository contains my Java programs and practice exercises.
+## About
+
+This repository contains basic Java programs created while learning Java programming concepts.
 
 ## Programs
 - Hello World
@@ -8,6 +10,14 @@ This repository contains my Java programs and practice exercises.
 - Sum of Numbers
 - Greater Number
 - Voting Eligibility Check
+
+  ## How to Run
+
+1. Compile:
+   javac FileName.java
+
+2. Run:
+   java FileName
 
 ## Author
 Selvakeerthana
